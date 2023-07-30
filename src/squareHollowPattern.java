@@ -22,8 +22,6 @@ public class squareHollowPattern {
             }
             System.out.println("");
         }
-
         numOne.close();
-
     }
 }
