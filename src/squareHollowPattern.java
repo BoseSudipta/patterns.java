@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class squareHollowPattern {
     public static void main(String[] args) {
         Scanner numOne = new Scanner(System.in);
